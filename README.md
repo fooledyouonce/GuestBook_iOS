@@ -125,4 +125,4 @@ https://youtu.be/HtdUlQXVBTY
 
 ## Demo
 
-[<img src="https://img.youtube.com/vi/sbUam79TCUU/maxresdefault.jpg" width="50%">](https://youtu.be/sbUam79TCUU)
+<video src='https://www.youtube.com/watch?v=sbUam79TCUU width=180/>
