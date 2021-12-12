@@ -123,6 +123,6 @@ List of network requests by screen
 
 https://youtu.be/HtdUlQXVBTY
 
-## Demo - Please follow the link
+## Demo
 
-https://www.youtube.com/watch?v=sbUam79TCUU
+## Click here for the project demo: https://www.youtube.com/watch?v=sbUam79TCUU
