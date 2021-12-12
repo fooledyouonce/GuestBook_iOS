@@ -37,11 +37,6 @@ videos, and text that will be displayed to the event's timeline.
 * User can post a picture/video/text message
 * User can view a feed of media
 
-**Optional Nice-to-have Stories**
-
-* Users can join an active event
-* Users can view past events
-
 ### 2. Screen Archetypes
 
 * Login Screen
