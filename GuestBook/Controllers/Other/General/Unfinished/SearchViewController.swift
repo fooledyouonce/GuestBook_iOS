@@ -1,13 +1,11 @@
-//
-//  EditProfileViewController.swift
+//  SearchViewController.swift
 //  GuestBook
 //
 //  Created by Emily Crowl on 12/1/21.
-//
 
 import UIKit
 
-class EditProfileViewController: UIViewController {
+class SearchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

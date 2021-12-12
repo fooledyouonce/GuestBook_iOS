@@ -1,9 +1,7 @@
-//
 //  SearchResultViewController.swift
 //  GuestBook
 //
 //  Created by Emily Crowl on 12/1/21.
-//
 
 import UIKit
 

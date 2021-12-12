@@ -1,13 +1,11 @@
-//
-//  SearchViewController.swift
+//  PublishPostViewController.swift
 //  GuestBook
 //
 //  Created by Emily Crowl on 12/1/21.
-//
 
 import UIKit
 
-class SearchViewController: UIViewController {
+class PublishPostViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

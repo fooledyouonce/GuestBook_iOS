@@ -6,6 +6,17 @@ target 'GuestBook' do
   use_frameworks!
 
   # Pods for GuestBook
+pod 'Appirater'
+pod 'SDWebImage'
+
+
+#Firebase
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Analytics'
+pod 'Firebase/Crashlytics'
+pod 'Firebase/Storage'
 
   target 'GuestBookTests' do
     inherit! :search_paths
