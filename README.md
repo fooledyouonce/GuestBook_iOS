@@ -123,6 +123,6 @@ List of network requests by screen
 
 https://youtu.be/HtdUlQXVBTY
 
-## Demo
+## Demo - Please follow the link
 
-<video src='cpsc411_demo.mp4' width=180/>
+https://www.youtube.com/watch?v=sbUam79TCUU
