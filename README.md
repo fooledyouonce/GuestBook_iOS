@@ -4,9 +4,8 @@
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
-5. [Project Setup](#Project-Setup)
-6. [Demo](#Demo)
+4. [Project Setup](#Project-Setup)
+5. [Demo](#Demo)
 
 ## Overview
 ### Description
@@ -101,27 +100,9 @@ videos, and text that will be displayed to the event's timeline.
 ## Wireframes
 <img src="GuestBook_Wireframe.jpg" width=600>
 
-
-## Schema 
-### Models
-![modelsPost](https://user-images.githubusercontent.com/50221165/114090620-83cbe600-986c-11eb-9918-5bf079a26484.png)
-
-### Networking
-List of network requests by screen
-- Timeline Feed Screen
-  - (Read/GET) Query all posts where event is author
-  ![eventCode](https://user-images.githubusercontent.com/50221165/114090159-ea043900-986b-11eb-9292-223e8e34a243.png)
-- Creation Screen
-  - (Create/POST) Create a new post object
-- Edit Details Screen
-  - (Read/GET) Query logged in event object
-  - (Update/PUT) Update event time, date, name. 
-- Join Event Screen
-   - (Read/GET) Query logged in event object
-  
 ## Project Setup
 
-https://youtu.be/HtdUlQXVBTY
+This application only works properly when connected to a Firebase RealTime database.
 
 ## Demo
 
