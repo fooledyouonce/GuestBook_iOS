@@ -98,7 +98,7 @@ videos, and text that will be displayed to the event's timeline.
    => Timeline
 
 ## Wireframes
-<img src="GBWFHost.jpg" width=600>
+<img src="GBWFHost.png" width=600>
 
 ## Project Setup
 
