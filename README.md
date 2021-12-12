@@ -125,4 +125,4 @@ https://youtu.be/HtdUlQXVBTY
 
 ## Demo
 
-<video src='https://www.youtube.com/watch?v=sbUam79TCUU' width=180/>
+<video src='cpsc411_demo.mp4' width=180/>
